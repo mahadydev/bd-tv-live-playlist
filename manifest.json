@@ -1,7 +1,8 @@
 {
   "sources": [
+    { "url": "https://raw.githubusercontent.com/mahadydev/bd-tv-live-playlist/main/worldcup.m3u", "origin": "open" },
     { "url": "https://raw.githubusercontent.com/mahadydev/bd-tv-live-playlist/main/bdix.m3u", "origin": "bdix" }
   ],
   "bdixProbe": "",
-  "categoryOrder": []
+  "categoryOrder": ["World Cup 2026"]
 }
