@@ -4,6 +4,6 @@
     { "url": "https://raw.githubusercontent.com/mahadydev/bd-tv-live-playlist/main/channels.m3u", "origin": "open" },
     { "url": "https://raw.githubusercontent.com/mahadydev/bd-tv-live-playlist/main/bdix.m3u", "origin": "bdix" }
   ],
-  "bdixProbe": "https://REPLACE_ME_BDIX_HOST/favicon.ico",
+  "bdixProbe": "",
   "categoryOrder": ["News", "General", "Entertainment", "Drama", "Sports", "Music", "Religious"]
 }
