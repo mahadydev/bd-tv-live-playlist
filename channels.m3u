@@ -1,0 +1,7 @@
+#EXTM3U
+# Your own open-internet channels. Add two lines per channel:
+#   #EXTINF:-1 tvg-logo="LOGO_URL" group-title="CATEGORY",Channel Name
+#   STREAM_URL
+# Example:
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4qZQKjo.png" group-title="News",ATN News
+https://example.com/atnnews/index.m3u8

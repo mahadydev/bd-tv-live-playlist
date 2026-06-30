@@ -1,0 +1,5 @@
+#EXTM3U
+# BDIX-only channels (reachable inside Bangladeshi ISP networks).
+# Shown only when the app's BDIX probe succeeds. Same two-line format:
+#EXTINF:-1 group-title="Sports",T Sports
+http://bdix-host.example/tsports/index.m3u8
