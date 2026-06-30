@@ -2,8 +2,9 @@
   "sources": [
     { "url": "https://iptv-org.github.io/iptv/countries/bd.m3u", "origin": "open" },
     { "url": "https://raw.githubusercontent.com/mahadydev/bd-tv-live-playlist/main/channels.m3u", "origin": "open" },
+    { "url": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u", "origin": "open" },
     { "url": "https://raw.githubusercontent.com/mahadydev/bd-tv-live-playlist/main/bdix.m3u", "origin": "bdix" }
   ],
   "bdixProbe": "",
-  "categoryOrder": ["News", "General", "Entertainment", "Drama", "Sports", "Music", "Religious"]
+  "categoryOrder": ["News", "Sports", "Bangla", "General", "Entertainment", "Drama", "Movies", "Music", "Religious", "Kids", "English", "Hindi"]
 }
