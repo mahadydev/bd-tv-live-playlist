@@ -1,7 +1,48 @@
 #EXTM3U
-# Your own open-internet channels. Add two lines per channel:
-#   #EXTINF:-1 tvg-logo="LOGO_URL" group-title="CATEGORY",Channel Name
-#   STREAM_URL
-# Example:
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4qZQKjo.png" group-title="News",ATN News
-https://example.com/atnnews/index.m3u8
+# BD TV Live — starter set (seeded from the public iptv-org BD list, real streams).
+# Edit freely: two lines per channel — an #EXTINF line then the stream URL.
+# Stream URLs can rot over time; the app fails over to other sources and skips dead ones.
+#EXTINF:-1 tvg-id="ATNBangla.bd@SD" tvg-logo="https://i.imgur.com/K1HmMRz.png" group-title="General",ATN Bangla (720p)
+https://tvsen5.aynaott.com/atnbangla/index.m3u8
+#EXTINF:-1 tvg-id="ATNNews.bd@SD" tvg-logo="https://i.imgur.com/4qZQKjo.png" group-title="News",ATN News (1080p)
+https://bozztv.com/rongo/rongo-ATNNews/index.m3u8
+#EXTINF:-1 tvg-id="BanglaVision.bd@SD" tvg-logo="https://i.imgur.com/nCWgp38.png" group-title="General",Bangla Vision (1080p)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+#EXTINF:-1 tvg-id="BoishakhiTV.bd@SD" tvg-logo="https://i.imgur.com/gxL05Y4.png" group-title="General",Boishakhi TV (720p)
+https://tvsen6.aynaott.com/boishakhitv/index.m3u8
+#EXTINF:-1 tvg-id="BTVNational.bd@SD" tvg-logo="https://i.imgur.com/5OE2FDt.png" group-title="Undefined",BTV National (1080p)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709.m3u8
+#EXTINF:-1 tvg-id="Channel24.bd@SD" tvg-logo="https://i.imgur.com/4JLkaF7.png" group-title="News",Channel 24 (1080p)
+https://bozztv.com/rongo/rongo-Channel24HD/index.m3u8
+#EXTINF:-1 tvg-id="ChannelI.bd@SD" tvg-logo="https://i.imgur.com/X0JJlOX.png" group-title="General",Channel I (1080p)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+#EXTINF:-1 tvg-id="DBCNews.bd@SD" tvg-logo="https://i.imgur.com/Qbt6q4z.png" group-title="News",DBC News (1080p)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
+#EXTINF:-1 tvg-id="DeshTV.bd@SD" tvg-logo="https://i.imgur.com/ItrZok1.png" group-title="News",Desh TV (1080p)
+https://bozztv.com/rongo/rongo-DeshTV/index.m3u8
+#EXTINF:-1 tvg-id="EkattorTV.bd@SD" tvg-logo="https://i.imgur.com/zoLwwUK.png" group-title="News",Ekattor TV (1080p)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705.m3u8
+#EXTINF:-1 tvg-id="EkusheyTV.bd@SD" tvg-logo="https://i.imgur.com/lRpkGHj.png" group-title="News",Ekushey TV (720p)
+https://tvsen6.aynaott.com/etv/index.m3u8
+#EXTINF:-1 tvg-id="GaziTV.bd@SD" tvg-logo="https://i.imgur.com/2Lzhiq6.png" group-title="General",Gazi TV (1080p)
+http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
+#EXTINF:-1 tvg-id="IndependentTV.bd@SD" tvg-logo="https://i.imgur.com/POXFhGN.png" group-title="News",Independent TV (1080p)
+https://bozztv.com/rongo/rongo-IndependentTV/index.m3u8
+#EXTINF:-1 tvg-id="JamunaTV.bd@SD" tvg-logo="https://www.jamuna.tv/wp-content/themes/jtv-news/img/logo.png" group-title="News",Jamuna TV (1080p)
+https://bozztv.com/rongo/rongo-JamunaTelevision/index.m3u8
+#EXTINF:-1 tvg-id="MaasrangaTV.bd@SD" tvg-logo="https://i.imgur.com/uVZJMed.png" group-title="Entertainment",Maasranga TV (1080p)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+#EXTINF:-1 tvg-id="MyTV.bd@SD" tvg-logo="https://i.imgur.com/475qK5T.png" group-title="General",My TV (720p)
+https://tvsen6.aynaott.com/mytv/index.m3u8
+#EXTINF:-1 tvg-id="News24.bd@SD" tvg-logo="https://i.imgur.com/fkTHh75.png" group-title="News",News 24 (1080p)
+https://bozztv.com/rongo/rongo-News24HD/index.m3u8
+#EXTINF:-1 tvg-id="NTV.bd@SD" tvg-logo="https://i.imgur.com/l75bDTx.png" group-title="General",NTV (1080p)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+#EXTINF:-1 tvg-id="RTV.bd@SD" tvg-logo="https://i.imgur.com/yu8ugqt.png" group-title="General",RTV (1080p)
+https://bozztv.com/rongo/rongo-RTV/index.m3u8
+#EXTINF:-1 tvg-id="SATV.bd@SD" tvg-logo="https://i.imgur.com/tL9kxxB.png" group-title="General",SA TV (720p)
+https://tvsen6.aynaott.com/satv/index.m3u8
+#EXTINF:-1 tvg-id="SomoyNewsTV.bd@SD" tvg-logo="https://i.imgur.com/i54AQic.png" group-title="News",Somoy News TV (1080p)
+https://bozztv.com/rongo/rongo-somoy/index.m3u8
+#EXTINF:-1 tvg-id="TSports.bd@SD" tvg-logo="https://i.imgur.com/2JzlorD.png" group-title="Sports",T Sports (720p)
+https://tvsen7.aynaott.com/tsports-hd/index.m3u8
