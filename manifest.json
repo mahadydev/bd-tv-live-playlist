@@ -1,5 +1,7 @@
 {
-  "sources": [],
+  "sources": [
+    { "url": "https://raw.githubusercontent.com/mahadydev/bd-tv-live-playlist/main/bdix.m3u", "origin": "bdix" }
+  ],
   "bdixProbe": "",
-  "categoryOrder": ["News", "Sports", "General", "Entertainment", "Drama", "Movies", "Music", "Religious", "Kids"]
+  "categoryOrder": []
 }
