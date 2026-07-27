@@ -4,5 +4,5 @@
     { "url": "https://raw.githubusercontent.com/mahadydev/bd-tv-live-playlist/main/bdix.m3u", "origin": "bdix" }
   ],
   "bdixProbe": "",
-  "categoryOrder": []
+  "categoryOrder": ["News", "Sports", "General", "Entertainment", "Movies", "Music", "Religious", "Kids", "Documentary", "Lifestyle", "Business", "Education", "Radio"]
 }
